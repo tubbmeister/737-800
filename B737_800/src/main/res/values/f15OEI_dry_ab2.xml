@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer-array name="f15oei_dry_ab2">
-        <item>7300</item>
-        <item>560</item>
-        <item>600</item>
-        <item>210</item>
-        <item>-320</item>
-        <item>-1080</item>
+    <integer-array name="f15oei_dry_ab2"><!-- Non Short FieldPack -->
+        <item>8040</item>
+        <item>490</item>
+        <item>550</item>
+        <item>240</item>
+        <item>-360</item>
+        <item>-1200</item>
         <item>-20</item> <!-- must be minus to work!!! -->
-        <item>-70</item>
-        <item>210</item>   <!-- app spd adjust -->
-        <item>-210</item>
-        <item>370</item>
+        <item>-80</item>
+        <item>240</item>   <!-- app spd adjust -->
+        <item>-240</item>
+        <item>400</item>
         <item>0</item>  <!-- 1 t/r -->
         <item>0</item>  <!-- 0 t/r -->
 

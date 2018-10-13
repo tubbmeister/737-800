@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer-array name="f15oei_medium_max_man">
-    <item>6220</item>
-    <item>500</item>
-    <item>500</item>
-    <item>190</item>
-    <item>-310</item>
-    <item>-1100</item>
-    <item>-310</item> <!-- must be minus to work!!! -->
-    <item>-240</item>
-    <item>170</item>   <!-- app spd adjust -->
-    <item>-170</item>
-    <item>220</item>
+    <integer-array name="f15oei_medium_max_man"><!-- Non Short FieldPack -->
+    <item>6810</item>
+    <item>440</item>
+    <item>460</item>
+    <item>210</item>
+    <item>-340</item>
+    <item>-1220</item>
+    <item>-360</item> <!-- must be minus to work!!! -->
+    <item>-280</item>
+    <item>190</item>   <!-- app spd adjust -->
+    <item>-200</item>
+    <item>240</item>
     <item>0</item>  <!-- 1 t/r -->
-    <item>1360</item>  <!-- 0 t/r -->
+    <item>1020</item>  <!-- 0 t/r -->
 
     </integer-array>
 </resources>

@@ -456,7 +456,7 @@ public class MainActivity extends AppCompatActivity {
                 double ref_dist, ref_dist1, ref_dist2, ref_dist3, ref_dist4, ref_dist5, ref_dist6, ref_dist7,ref_dist8,ref_dist9,cross;
 
                 if (flaps=="oeif15") {
-                     baseWeight=55000; //to cater for different weight datum f15
+                     baseWeight=65000; //to cater for different weight datum f15
                     appspdadj=5;
                 }
                 else baseWeight=65000; //737-800
